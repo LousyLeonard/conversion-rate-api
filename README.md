@@ -1,5 +1,5 @@
 # Formedix Java API
-IntelliJ Java project.
+IntelliJ Java project, see the [full spec](Coding Exercise (Java).pdf).
 
 ### Quick Start API End-Point Examples
 * http://localhost:8080/date?start=2020-01-01&&end=2021-01-02
