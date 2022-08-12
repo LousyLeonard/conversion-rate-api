@@ -1,5 +1,5 @@
-# Formedix Java API
-IntelliJ Java project, see the [full spec](https://github.com/user/repo/blob/branch/Coding Exercise (Java).pdf).
+# Conversion Rate API
+IntelliJ Java project, see the [full spec](https://github.com/LousyLeonard/conversion-rate-api/blob/master/conversion-rate-api-spec.pdf).
 
 ### Quick Start API End-Point Examples
 * http://localhost:8080/date?start=2020-01-01&&end=2021-01-02
